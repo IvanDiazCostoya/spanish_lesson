@@ -1,0 +1,33 @@
+https://www.google.com/maps/place/Bar+GAUCHO+Taberna/@42.8163698,-1.6417909,3a,75y/data=!3m8!1e2!3m6!1sAF1QipM1z68FkjYU4_KB1u6rLeoSK0F7eFS99XmvnmX1!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM1z68FkjYU4_KB1u6rLeoSK0F7eFS99XmvnmX1%3Dw203-h152-k-no!7i4032!8i3024!4m16!1m7!3m6!1s0xd5092feccf2e659:0x98d96c9b2e76531a!2sBar+GAUCHO+Taberna!8m2!3d42.8163811!4d-1.6417984!16s%2Fg%2F1thx9ysd!3m7!1s0xd5092feccf2e659:0x98d96c9b2e76531a!8m2!3d42.8163811!4d-1.6417984!14m1!1BCgIYIA!16s%2Fg%2F1thx9ysd?hl=es
+
+Camarero: Buenas tardes, ¿cuántos sois?
+Cliente: Buenas tardes, somos 2.
+Camarero: Sentaos donde queráis.
+...
+Camarero: ¿Qué vais a tomar?
+Cliente: Ponnos 4 pintxos, ____.
+Camarero: ____, muy bien, ¿queréis algo de beber?
+Cliente: Sí, una copa de ____ y otra de ____.
+...
+Cliente: ¿Perdona, nos cobras?
+Camarero: Sí, son 24 euros.
+Cliente: ¿Nos puedes cobrar por separado?
+Camarero: Sí, entonces son 12 euros cada uno.
+Cliente: Gracias, hasta luego.
+Camarero: Hasta luego.
+
+Camarero: こんばんは、何名様ですか
+Cliente: こんばんは、二人です
+Camarero: お好きなところ、どうぞ
+...
+Camarero: はい、どうぞ
+Cliente: pintxosは４つもらえますか, ____.
+Camarero: ____, かしこまりました、お飲み物は
+Cliente: はい、____
+...
+Cliente: すみません、お会計お願いします
+Camarero: はい、２４ユーロ
+Cliente: 別々でいいですか
+Camarero: はい、一人１２ユーロ
+Cliente: ありがとう、また。
+Camarero: また。
